@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @claar2024
+- 👋 Hi, I’m Tobias
 - 👀 I’m interested in creating stuff
 - 🌱 I’m currently learning javascript, github
 - 📫 How to reach me ...
